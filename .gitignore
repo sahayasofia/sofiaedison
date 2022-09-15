@@ -1,0 +1,10 @@
+#to ignore a single file
+myfile.txt
+
+#ignore a directory
+temp/
+jdk/
+cache/
+
+#ignore all log file
+*.log
