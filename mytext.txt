@@ -1,4 +1,6 @@
-WAezsrfvgbhiikolkjgtyeswaesxdfvhjnmkj
-i9k8ujhygtfrdcdqawesdtfgyhjikl;kjgtfgdr
-;lkjhgfdcvbhjkawlse;fhujipjlikj
-';lkjhygtrfedc5fgt6hyju8ot0lp
+my name is sofia
+and i am a girl
+i am a........sofi
+
+print("my first line")
+print("my second line")
